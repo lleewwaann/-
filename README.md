@@ -1,5 +1,5 @@
 # -
-一段DES加密的密文，试着解密一下，是个秘密（老脸一红），再如果你发现了这个秘密
+一段DES加密的密文，试着解密一下，是个秘密（老脸一红），你要是提前发现了，请忽略，可不可以等你毕业一年之后再看哇，球球了（及其卑微的口吻）
 #
 U2FsdGVkX1+L1v7EASPt/FWiv9cLho3+AxHLq9emYD+b0FVMlrZhqP/LEeuL1tf3
 NnKUXRnntG+qmiDm+JxVZ78Z4uCiWydtqx2IdCbk+ZYZYt2Ot6yeExpybEJSJSFq
